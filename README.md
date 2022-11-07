@@ -1,6 +1,6 @@
 # Hyperbolic Time Chamber - Praktiz
 
-#### Contains everything related to my Coding Interview preparation process
+#### Contains everything related to my Coding Development and problem solving preparation process.
 
 This project contains two main sections: 
 - Data Structures
